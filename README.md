@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleksa, student at Faculty of Electrical Engineering, University of Belgrade.
-- 👀 I’m interested in web development. I know JavaScript, PHP, Python, C, MySql.
+- 👀 I’m interested in web development. I know JavaScript, PHP, Python, C, C++ (OOP), MySql.
 - 🌱 I’m currently learning Laravel. 
 - 📫 How to reach me: aleksaeric2001@gmail.com
 
