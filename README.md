@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aleksa, student at Faculty of Electrical Engineering, University of Belgrade.
-- 👀 I’m interested in web development. I know JavaScript, PHP, Python, C, C++ (OOP), MySql.
-- 🌱 I’m currently learning Laravel. 
+- 👀 I’m interested in web development and database design.
+- 🌱 Languages: JavaScript, C++, Java, Python, C, PHP, MySQL
+- 🌱 Technologies: Boostrap, Laravel, React
 - 📫 How to reach me: aleksaeric2001@gmail.com
 
 <!---
